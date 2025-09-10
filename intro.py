@@ -4,4 +4,5 @@ print("This will create conflict with main branch. rohail-branch")
 print("I am adding these change from feature_2 without conflicts")
 # This should definately create a conflict
 
-# Another conflict stategy. 2
+# This is change conflict strategy. 1
+
