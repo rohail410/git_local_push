@@ -5,3 +5,4 @@ print("I am adding these change from feature_2 without conflicts")
 # This should definately create a conflict
 
 # This is change conflict strategy. 1
+
